@@ -39,7 +39,7 @@ Driven by a passion for data analytics and real estate, I embarked on this proje
 
 ## Interactive Visualization
 
-- Created an interactive map of Madrid in Tableau.
+- Created an interactive map of Madrid in [Tableau](https://public.tableau.com/app/profile/halyna.abelchakova/viz/MadridRealEstateMarketAnalysis/Story1#1)
 - Overcame geocoding challenges to accurately visualize property locations and market dynamics.
 
 ## API Development
